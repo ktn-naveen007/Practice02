@@ -1,3 +1,4 @@
 Step1 -> local master
 Step2->from br1
 Line 3 added
+Line 4 added for merge conflict in br1
